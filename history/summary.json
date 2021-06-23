@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/modem.by",
     "slug": "modem-ltd",
     "status": "down",
-    "uptime": "9.00%",
-    "uptimeDay": "9.00%",
-    "uptimeWeek": "9.00%",
-    "uptimeMonth": "9.00%",
-    "uptimeYear": "9.00%",
-    "time": 747,
-    "timeDay": 747,
-    "timeWeek": 747,
-    "timeMonth": 747,
-    "timeYear": 747,
+    "uptime": "0.35%",
+    "uptimeDay": "0.35%",
+    "uptimeWeek": "0.35%",
+    "uptimeMonth": "0.35%",
+    "uptimeYear": "0.35%",
+    "time": 781,
+    "timeDay": 781,
+    "timeWeek": 781,
+    "timeMonth": 781,
+    "timeYear": 781,
     "dailyMinutesDown": {
-      "2021-06-23": 0
+      "2021-06-23": 6
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 915,
-    "timeDay": 915,
-    "timeWeek": 915,
-    "timeMonth": 915,
-    "timeYear": 915,
+    "time": 867,
+    "timeDay": 867,
+    "timeWeek": 867,
+    "timeMonth": 867,
+    "timeYear": 867,
     "dailyMinutesDown": {}
   }
 ]
