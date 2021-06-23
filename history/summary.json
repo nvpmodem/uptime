@@ -1,23 +1,39 @@
 [
   {
-    "name": "Modem Ltd.",
-    "url": "https://modem.by",
+    "name": "Modem Ltd. RU",
+    "url": "https://modem.by/ru",
     "icon": "https://favicons.githubusercontent.com/modem.by",
-    "slug": "modem-ltd",
-    "status": "down",
-    "uptime": "0.35%",
-    "uptimeDay": "0.35%",
-    "uptimeWeek": "0.35%",
-    "uptimeMonth": "0.35%",
-    "uptimeYear": "0.35%",
-    "time": 781,
-    "timeDay": 781,
-    "timeWeek": 781,
-    "timeMonth": 781,
-    "timeYear": 781,
-    "dailyMinutesDown": {
-      "2021-06-23": 6
-    }
+    "slug": "modem-ltd-ru",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1318,
+    "timeDay": 1318,
+    "timeWeek": 1318,
+    "timeMonth": 1318,
+    "timeYear": 1318,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Modem Ltd. EN",
+    "url": "https://modem.by/en",
+    "icon": "https://favicons.githubusercontent.com/modem.by",
+    "slug": "modem-ltd-en",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 545,
+    "timeDay": 545,
+    "timeWeek": 545,
+    "timeMonth": 545,
+    "timeYear": 545,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Innerica",
@@ -30,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 867,
-    "timeDay": 867,
-    "timeWeek": 867,
-    "timeMonth": 867,
-    "timeYear": 867,
+    "time": 861,
+    "timeDay": 861,
+    "timeWeek": 861,
+    "timeMonth": 861,
+    "timeYear": 861,
     "dailyMinutesDown": {}
   }
 ]
