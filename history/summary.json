@@ -4,18 +4,19 @@
     "url": "https://modem.by/ru",
     "icon": "https://favicons.githubusercontent.com/modem.by",
     "slug": "modem-ltd-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 1379,
-    "timeDay": 1384,
+    "time": 1376,
+    "timeDay": 1342,
     "timeWeek": 1377,
-    "timeMonth": 1379,
-    "timeYear": 1379,
+    "timeMonth": 1376,
+    "timeYear": 1376,
     "dailyMinutesDown": {
+      "2021-07-05": 1,
       "2021-06-27": 10
     }
   },
@@ -24,35 +25,39 @@
     "url": "https://modem.by/en",
     "icon": "https://favicons.githubusercontent.com/modem.by",
     "slug": "modem-ltd-en",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 386,
-    "timeDay": 391,
+    "timeDay": 378,
     "timeWeek": 369,
     "timeMonth": 386,
     "timeYear": 386,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-05": 1
+    }
   },
   {
     "name": "Innerica",
     "url": "https://innerica.ru",
     "icon": "https://favicons.githubusercontent.com/innerica.ru",
     "slug": "innerica",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 887,
-    "timeDay": 859,
-    "timeWeek": 923,
-    "timeMonth": 887,
-    "timeYear": 887,
-    "dailyMinutesDown": {}
+    "time": 886,
+    "timeDay": 868,
+    "timeWeek": 907,
+    "timeMonth": 886,
+    "timeYear": 886,
+    "dailyMinutesDown": {
+      "2021-07-05": 0
+    }
   }
 ]
