@@ -17,7 +17,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime Modem Ltd.
-  introTitle: This is the Modem Ltd. monitoring page."
+  introTitle: This is the 'Modem Ltd.' monitoring page.
   navbar:
     - title: Status
       href: /
