@@ -96,19 +96,19 @@
     "url": "$TNG_URL/Account/Login",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tng-portal",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.06%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.99%",
-    "time": 1329,
-    "timeDay": 1224,
-    "timeWeek": 1211,
-    "timeMonth": 1228,
-    "timeYear": 1329,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "95.59%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.97%",
+    "time": 1368,
+    "timeDay": 4387,
+    "timeWeek": 2003,
+    "timeMonth": 1426,
+    "timeYear": 1368,
     "dailyMinutesDown": {
-      "2022-02-19": 28
+      "2022-02-19": 64
     }
   },
   {
