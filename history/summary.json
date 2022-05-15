@@ -119,9 +119,9 @@
     "url": "$NGT_URL/Account/Login",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ngt-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -130,7 +130,9 @@
     "timeWeek": 1041,
     "timeMonth": 1167,
     "timeYear": 1235,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-15": 0
+    }
   },
   {
     "name": "BTA Portal",
