@@ -1,7 +1,7 @@
 url: $BTA_URL/Account/Login
 status: up
 code: 200
-responseTime: 849
-lastUpdated: 2022-08-15T23:12:52.169Z
+responseTime: 1076
+lastUpdated: 2022-08-16T23:11:27.592Z
 startTime: Tue Sep 14 2021 05:45:53 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
