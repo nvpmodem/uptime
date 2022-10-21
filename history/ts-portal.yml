@@ -1,7 +1,7 @@
 url: $TS_URL/Account/Login
 status: up
 code: 200
-responseTime: 867
-lastUpdated: 2022-10-20T23:18:40.654Z
+responseTime: 846
+lastUpdated: 2022-10-21T23:16:39.508Z
 startTime: Tue Sep 14 2021 05:45:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
