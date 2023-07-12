@@ -1,7 +1,7 @@
 url: $TNG_URL/Account/Login
 status: up
 code: 200
-responseTime: 1213
-lastUpdated: 2023-07-11T23:10:53.783Z
+responseTime: 900
+lastUpdated: 2023-07-12T23:11:06.847Z
 startTime: Tue Sep 14 2021 05:45:50 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
