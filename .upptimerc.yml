@@ -3,20 +3,15 @@ owner: nvpmodem # Your GitHub organization or username, where this repository li
 repo: uptime # The name of this repository
 
 sites:
-  - name: Modem Ltd. RU
-    url: https://modem.by/ru
-  - name: Modem Ltd. EN
-    url: https://modem.by/en
-  - name: Innerica
-    url: https://innerica.ru
-  - name: TS Portal
-    url: $TS_URL/Account/Login
-  - name: TNG Portal
-    url: $TNG_URL/Account/Login
-  - name: NGT Portal
-    url: $NGT_URL/Account/Login
-  - name: BTA Portal
-    url: $BTA_URL/Account/Login
+  - name: Modem Office
+    check: "tcp-ping"
+    url: 82.209.214.82
+    port: 443
+  - name: Modem BTK DC
+    check: "tcp-ping"
+    url: 86.57.246.42
+    port: 443
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
