@@ -4,7 +4,7 @@
     "url": "82.209.214.82",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "modem-office",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 141,
     "timeMonth": 145,
     "timeYear": 145,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-27": 0
+    }
   },
   {
     "name": "Modem BTK DC",
