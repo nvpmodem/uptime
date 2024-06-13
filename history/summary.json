@@ -29,7 +29,7 @@
     "url": "86.57.246.42",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "modem-btk-dc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -41,6 +41,7 @@
     "timeMonth": 147,
     "timeYear": 149,
     "dailyMinutesDown": {
+      "2024-06-13": 0,
       "2024-03-28": 101,
       "2024-02-18": 21,
       "2024-02-17": 1435,
