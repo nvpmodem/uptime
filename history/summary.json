@@ -4,7 +4,7 @@
     "url": "82.209.214.82",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "modem-office",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 147,
     "timeYear": 148,
     "dailyMinutesDown": {
+      "2025-08-21": 0,
       "2025-07-14": 16,
       "2025-06-14": 24,
       "2025-06-09": 400,
