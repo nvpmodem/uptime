@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "modem-office",
     "status": "up",
-    "uptime": "99.40%",
+    "uptime": "99.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.11%",
     "time": 148,
-    "timeDay": 171,
-    "timeWeek": 146,
-    "timeMonth": 153,
+    "timeDay": 127,
+    "timeWeek": 144,
+    "timeMonth": 154,
     "timeYear": 149,
     "dailyMinutesDown": {
       "2025-10-09": 61,
@@ -53,8 +53,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
     "time": 149,
-    "timeDay": 171,
-    "timeWeek": 147,
+    "timeDay": 124,
+    "timeWeek": 145,
     "timeMonth": 154,
     "timeYear": 150,
     "dailyMinutesDown": {
@@ -66,8 +66,7 @@
       "2025-04-17": 21,
       "2025-04-07": 36,
       "2025-02-19": 115,
-      "2024-12-12": 403,
-      "2024-12-11": 226
+      "2024-12-12": 403
     }
   }
 ]
